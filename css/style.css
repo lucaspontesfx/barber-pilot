@@ -41,7 +41,7 @@ HOME
 
 .Home .header {
     padding: 30px 0;
-    /* position:absolute;  testando se consigo fixar esse menu no topo ddo site*/
+    /* position:absolute;  testando se consigo fixar esse menu no topo do site*/
 }
 
 
@@ -240,7 +240,7 @@ margin-bottom: 15px;
 }
 
 .services .container {
-   /*text-align: center;  Não sei se faz diferença entre aplicar aqui essa regra ou apenas em .services  */
+   text-align: center;  /*Não sei se faz diferença entre aplicar aqui essa regra ou apenas em .services  */
     
 }
 

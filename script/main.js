@@ -8,7 +8,7 @@ let about = document.querySelector('#about');
 let services = document.querySelector('#services')
 
 function goToHome() {
-  console.log('cliquei em ')
+  console.log('cliquei em')
 }
 
 function goToAbout() {
